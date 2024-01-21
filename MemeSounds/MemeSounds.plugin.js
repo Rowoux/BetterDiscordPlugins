@@ -11,7 +11,7 @@ module.exports = (() => {
 			version: "1.0.0",
 			description: "Plays Memetastic sounds when certain words are sent in chat. This plugin was heavily inspired by Metalloriff's bruh plugin so please go check him out!",
 			github: "https://github.com/Rowoux/BetterDiscordPlugins/blob/main/MemeSounds",
-			github_raw: "https://raw.githubusercontent.com/Lonk12/BetterDiscordPlugins/main/MemeSounds/MemeSounds.plugin.js"
+			github_raw: "https://raw.githubusercontent.com/Rowoux/BetterDiscordPlugins/main/MemeSounds/MemeSounds.plugin.js"
 		},
 		/* Settings */
 		defaultConfig: [{
